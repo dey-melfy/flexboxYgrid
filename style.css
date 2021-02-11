@@ -1,0 +1,17 @@
+.flex-container{
+    padding: 1rem;
+    margin: auto;
+    width: 40vw;
+    height: 50vw;
+    border: medium solid #333;
+    background-color: steelblue;
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-items{
+    border: thin solid #333;
+    font-size: 2rem;
+    background-color: deepskyblue;
+    width: 15%;
+}
